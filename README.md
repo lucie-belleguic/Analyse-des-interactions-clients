@@ -80,7 +80,7 @@ Réponse attendue :
 ## 📁 Structure du projet
 
 ```
-analyse-sentiments/
+Analyse-des-interactions-clients/
 ├── data/                    # Jeux de données
 ├── models/                  # Modèles sauvegardés
 ├── notebooks/               # Notebooks exploratoires
