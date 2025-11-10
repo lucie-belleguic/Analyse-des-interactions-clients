@@ -1,4 +1,4 @@
-# 🤖 **Analyse des interactions clients**
+# **Analyse des interactions clients**
 
 ## *Prédiction du sentiment associé à un tweet et mise en place d’une démarche MLOps*
 
@@ -7,21 +7,21 @@ L’objectif était de **prédire le sentiment associé à des tweets** (positif
 
 ---
 
-## 🚀 Fonctionnalités principales
+## Fonctionnalités principales
 
-- 📊 Prétraitement avancé du texte (normalisation, lemmatisation, suppression des stopwords, etc.)
-- 🔎 Comparaison de plusieurs approches :
+- Prétraitement avancé du texte (normalisation, lemmatisation, suppression des stopwords, etc.)
+- Comparaison de plusieurs approches :
   - **Régression Logistique** (TF-IDF)
   - **RNN LSTM** (Word Embeddings)
   - **RoBERTa** (Transformers pré-entraînés)
-- ⚖️ Évaluation des performances avec métriques et visualisations
-- 🔧 Suivi et monitoring du modèle via **MLflow**
-- 🚀 Mise en production avec un pipeline de déploiement continu : Déploiement automatisé avec **GitHub Actions** et hébergement sur **Azure**
-- 📈 Supervision et alertes automatiques en cas de dérive des performances
+- Évaluation des performances avec métriques et visualisations
+- Suivi et monitoring du modèle via **MLflow**
+- Mise en production avec un pipeline de déploiement continu : Déploiement automatisé avec **GitHub Actions** et hébergement sur **Azure**
+- Supervision et alertes automatiques en cas de dérive des performances
 
 ---
 
-## 🧰 Stack technique
+## Stack technique
 
 - **Python**
 - **Scikit-learn**, **PyTorch**, **TensorFlow**
@@ -32,7 +32,7 @@ L’objectif était de **prédire le sentiment associé à des tweets** (positif
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. **Cloner le dépôt**
 
@@ -61,7 +61,7 @@ python app.py
 
 ---
 
-## 🎮 Utilisation
+## Utilisation
 
 ### Exemple d’appel à l’API
 
@@ -77,7 +77,7 @@ Réponse attendue :
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 Analyse-des-interactions-clients/
@@ -96,7 +96,7 @@ Analyse-des-interactions-clients/
 
 ---
 
-## 📊 Résultats
+## Résultats
 
 - **Régression Logistique (TF-IDF)** : simple, rapide, mais peu contextuel  
 - **RNN LSTM (Word Embeddings)** : contextuel, mais lent et moins performant  
@@ -104,7 +104,7 @@ Analyse-des-interactions-clients/
 
 ---
 
-## 🚀 Déploiement
+## Déploiement
 
 - **Intégration continue (CI/CD)** : GitHub Actions exécute automatiquement les tests et la mise à jour du modèle.  
 - **Hébergement** : l’API est déployée sur **Azure**, rendant le modèle accessible via une API REST.  
@@ -112,7 +112,7 @@ Analyse-des-interactions-clients/
 
 ---
 
-## 🔭 Développement futur
+## Développement futur
 
 Améliorations possibles :
 - Extension à d’autres langues
@@ -121,7 +121,7 @@ Améliorations possibles :
 
 ---
 
-## 🎓 Contexte
+## Contexte
 
 Ce projet a été développé dans le cadre de ma formation en Data Science.  
 Il démontre :  
@@ -131,6 +131,6 @@ Il démontre :
 
 ---
 
-## 📄 Licence
+## Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
