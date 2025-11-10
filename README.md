@@ -5,6 +5,8 @@
 Bienvenue dans mon projet **Analyse de Sentiments**, réalisé dans le cadre de ma formation en Data Science.  
 L’objectif était de **prédire le sentiment associé à des tweets** (positif ou négatif) et de mettre en place une **chaîne complète de traitement et de déploiement** en respectant les bonnes pratiques MLOps.
 
+Vous pouvez consulter une présentation du projet [ici](docs/Presentation.pdf).
+
 ---
 
 ## Fonctionnalités principales
